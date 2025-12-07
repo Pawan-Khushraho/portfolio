@@ -62,7 +62,7 @@ export const myProjects = [
         desc: 'National Portal of India provides a single-window access to information and services that are electronically delivered from all Government Departments.',
         subdesc:
             'The National Portal of India, developed using Next.js, TypeScript, Tailwind CSS, and Framer Motion, is designed to deliver a seamless and modern user experience. This platform provides a single-window access to a comprehensive array of government information and services, emphasizing accessibility, performance, and user-centric design.',
-        href: 'https://v2.india.gov.in/',
+        href: 'https://india.gov.in/',
         texture: '/textures/project/project1.mp4',
         logo: '/assets/npi_logo.webp',
         logoStyle: {
